@@ -1,4 +1,2 @@
-# rompecabezas
-Rompecabezas BMO Arcade realizado con vanilla javascript
-
-
+# Rompecabezas
+Proyecto Acamica
